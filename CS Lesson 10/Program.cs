@@ -105,6 +105,7 @@ Pls select: ");
 
                 case "0":
                     exit = true;
+                    docProgram = null;
                     Console.WriteLine("\n\n\n\n\t\t\t\t\t\tGOOD BYE !");
                     break;
 
